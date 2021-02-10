@@ -22,7 +22,7 @@ This is a simple web application that fetches news using NEWS api
 
 - [x] Create left side of card
 
-- [ ] Create right side of the card
+- [x] Create right side of the card
 
 - [ ] Add search field
 
