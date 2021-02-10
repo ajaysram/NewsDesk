@@ -6,7 +6,7 @@
 
 
 body {
-    background-image: linear-gradient(45deg,#8888fc,#fff);
+    background-image: linear-gradient(#8888fc,#8c8cfc);
 	background-repeat: repeat;
     font-family: 'Source Sans Pro', sans-serif;
     margin: 0;
@@ -103,5 +103,14 @@ i{
 	background-color: transparent;
 	border: none;
 	font-size: 20px;
+	color: #004e92;
+}
+
+.spinner{
+	position: absolute;
+	font-size: 120px;
+	z-index: 1;
+	top : 40%;
+	left:45%;
 	color: #004e92;
 }
