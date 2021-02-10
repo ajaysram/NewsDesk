@@ -8,7 +8,7 @@ This is a simple web application that fetches news using NEWS api
 ## TODO
 - [x] Create boilerplates
 
-- [ ] Get fonts and and fontawsome library
+- [x] Get fonts and and fontawsome library
 
 - [ ] Link CSS and JS
 
