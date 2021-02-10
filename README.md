@@ -10,7 +10,7 @@ This is a simple web application that fetches news using NEWS api
 
 - [x] Get fonts and and fontawsome library
 
-- [ ] Link CSS and JS
+- [x] Link CSS and JS
 
 - [ ] Set background
 
