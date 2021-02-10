@@ -1,1 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Source+Sans+Pro&family=Ubuntu&display=swap');
+
+* {
+	box-sizing: border-box;
+}
+
+
+body {
+    height: 100vh;
+	width: 100vw;
+    background-image: linear-gradient(45deg,#8888fc,#fff);
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 0;
+}

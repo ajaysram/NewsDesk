@@ -12,7 +12,7 @@ This is a simple web application that fetches news using NEWS api
 
 - [x] Link CSS and JS
 
-- [ ] Set background
+- [x] Set background
 
 - [ ] Add heading
 
