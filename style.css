@@ -12,3 +12,13 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
     margin: 0;
 }
+
+#heading{
+    color:#fff;
+    font-family: 'Ubuntu',sans-serif;
+    font-weight: 800;
+    font-size: 50px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    text-shadow: 1px 3px #004e92;
+}

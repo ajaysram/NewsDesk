@@ -14,9 +14,9 @@ This is a simple web application that fetches news using NEWS api
 
 - [x] Set background
 
-- [ ] Add heading
+- [x] Add heading
 
-- [ ] Colour the heading
+- [x] Colour the heading
 
 - [ ] Add a simple shadow to text
 
