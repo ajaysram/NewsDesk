@@ -6,7 +6,7 @@ This is a simple web application that fetches news using NEWS api
 ![screenshot](./screenshot.png)
 
 ## TODO
-- [ ] Create boilerplates
+- [x] Create boilerplates
 
 - [ ] Get fonts and and fontawsome library
 
@@ -25,3 +25,8 @@ This is a simple web application that fetches news using NEWS api
 - [ ] Create right side of the card
 
 - [ ] Style the card
+
+- [ ] Add search field
+
+- [ ] Style search field
+ 
