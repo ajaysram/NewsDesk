@@ -18,13 +18,11 @@ This is a simple web application that fetches news using NEWS api
 
 - [x] Colour the heading
 
-- [ ] Add a simple shadow to text
+- [x] Add a simple shadow to text
 
-- [ ] Create left side of card
+- [x] Create left side of card
 
 - [ ] Create right side of the card
-
-- [ ] Style the card
 
 - [ ] Add search field
 
