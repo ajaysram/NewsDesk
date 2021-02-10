@@ -114,3 +114,11 @@ i{
 	left:45%;
 	color: #004e92;
 }
+
+.hide {
+	display: none;
+}
+
+.show {
+	display: block;
+}

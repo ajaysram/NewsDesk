@@ -1,4 +1,5 @@
 $(document).ready(()=>{
+    $('#spinner').removeClass('hide').addClass('show');
     $.ajax({
         url: "https://newsdesk-1822.herokuapp.com/",
         type: "GET",
@@ -6,6 +7,7 @@ $(document).ready(()=>{
             console.log(e);
         },
         success: (response)=>{
+            $('#spinner').removeClass('show').addClass('hide');
             if (response.status === "ok"){
                 let total = response.totalResults;
                 let cards = "";
