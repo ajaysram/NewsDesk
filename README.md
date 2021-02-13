@@ -24,7 +24,5 @@ This is a simple web application that fetches news using NEWS api
 
 - [x] Create right side of the card
 
-- [x] Add search field
-
-- [x] Style search field
+- [x] Connecting API with JS
  
