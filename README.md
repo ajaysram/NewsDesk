@@ -2,6 +2,8 @@
 
 This is a simple web application that fetches news using NEWS api
 
+## UI Inspiration @ Florin Pop
+
 # IDEA
 ![screenshot](./screenshot.png)
 
